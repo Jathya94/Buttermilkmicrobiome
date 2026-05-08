@@ -1,0 +1,16 @@
+Sample-id	Group	Cage information	Gender	Age-starting date	Age-sacrificing date	Sample type
+#q2:types	Categorical	Categorical	Categorical	Categorical	Categorical	Categorical
+C1	Control diet	Cage 1	male	6 weeks	10 weeks	Fecal
+C2	Control diet	Cage 1	male	6 weeks	10 weeks	Fecal
+C3	Control diet	Cage 1	male	6 weeks	10 weeks	Fecal
+C4	Control diet	Cage 2	male	6 weeks	10 weeks	Fecal
+C5	Control diet	Cage 2	male	6 weeks	10 weeks	Fecal
+C6	Control diet	Cage 2	male	6 weeks	10 weeks	Fecal
+C7	Control diet	Cage 5	male	6 weeks	10 weeks	Fecal
+C8	Control diet	Cage 5	male	6 weeks	10 weeks	Fecal
+B1	Buttermilk diet	Cage 3	male	6 weeks	10 weeks	Fecal
+B2	Buttermilk diet	Cage 3	male	6 weeks	10 weeks	Fecal
+B3	Buttermilk diet	Cage 3	male	6 weeks	10 weeks	Fecal
+B4	Buttermilk diet	Cage 4	male	6 weeks	10 weeks	Fecal
+B5	Buttermilk diet	Cage 4	male	6 weeks	10 weeks	Fecal
+B6	Buttermilk diet	Cage 4	male	6 weeks	10 weeks	Fecal

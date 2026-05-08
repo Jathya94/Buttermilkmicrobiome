@@ -1,0 +1,33 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+C1	/scratch/bell/jsenarat/buttermilk/data/096990_C1_S93_L001_R1_001.fastq	/scratch/bell/jsenarat/buttermilk/data/096990_C1_S93_L001_R2_001.fastq
+C2	/scratch/bell/jsenarat/buttermilk/data/096991_C2_S94_L001_R1_001.fastq	/scratch/bell/jsenarat/buttermilk/data/096991_C2_S94_L001_R2_001.fastq
+C3	/scratch/bell/jsenarat/buttermilk/data/096992_C3_S95_L001_R1_001.fastq	/scratch/bell/jsenarat/buttermilk/data/096992_C3_S95_L001_R2_001.fastq
+C4	/scratch/bell/jsenarat/buttermilk/data/096993_C4_S96_L001_R1_001.fastq	/scratch/bell/jsenarat/buttermilk/data/096993_C4_S96_L001_R2_001.fastq
+C5	/scratch/bell/jsenarat/buttermilk/data/096994_C5_S97_L001_R1_001.fastq	/scratch/bell/jsenarat/buttermilk/data/096994_C5_S97_L001_R2_001.fastq
+C6	/scratch/bell/jsenarat/buttermilk/data/096995_C6_S98_L001_R1_001.fastq	/scratch/bell/jsenarat/buttermilk/data/096995_C6_S98_L001_R2_001.fastq
+C7	/scratch/bell/jsenarat/buttermilk/data/096996_C7_S99_L001_R1_001.fastq	/scratch/bell/jsenarat/buttermilk/data/096996_C7_S99_L001_R2_001.fastq
+C8	/scratch/bell/jsenarat/buttermilk/data/096997_C8_S100_L001_R1_001.fastq	/scratch/bell/jsenarat/buttermilk/data/096997_C8_S100_L001_R2_001.fastq
+B1	/scratch/bell/jsenarat/buttermilk/data/096998_B1_S101_L001_R1_001.fastq	/scratch/bell/jsenarat/buttermilk/data/096998_B1_S101_L001_R2_001.fastq
+B2	/scratch/bell/jsenarat/buttermilk/data/096999_B2_S102_L001_R1_001.fastq	/scratch/bell/jsenarat/buttermilk/data/096999_B2_S102_L001_R2_001.fastq
+B3	/scratch/bell/jsenarat/buttermilk/data/097000_B3_S103_L001_R1_001.fastq	/scratch/bell/jsenarat/buttermilk/data/097000_B3_S103_L001_R2_001.fastq
+B4	/scratch/bell/jsenarat/buttermilk/data/097001_B4_S104_L001_R1_001.fastq	/scratch/bell/jsenarat/buttermilk/data/097001_B4_S104_L001_R2_001.fastq
+B5	/scratch/bell/jsenarat/buttermilk/data/097002_B5_S105_L001_R1_001.fastq	/scratch/bell/jsenarat/buttermilk/data/097002_B5_S105_L001_R2_001.fastq
+B6	/scratch/bell/jsenarat/buttermilk/data/093058_B6_S384_L001_R1_001.fastq	/scratch/bell/jsenarat/buttermilk/data/093058_B6_S384_L001_R2_001.fastq
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
